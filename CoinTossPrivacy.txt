@@ -1,6 +1,6 @@
-[Your Game Name] Privacy Policy
+CoinToss Privacy Policy
 
-Effective Date: [Date]
+Effective Date: 04/11/2023
 
 Introduction
 CoinToss ("we" or "us") is committed to protecting the privacy of our users ("user" or "you"). This Privacy Policy outlines the types of personal information we collect from users of  and how we use, disclose, and protect that information. By accessing or using CoinToss, you consent to the collection, use, and disclosure of your personal information in accordance with this Privacy Policy.
@@ -33,4 +33,10 @@ Children's Privacy
 CoinToss is not intended for children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you believe that your child has provided us with personal information, please contact us immediately, and we will take steps to remove the information from our systems.
 
 Your Rights
-Depending on your location, you may have certain rights regarding your personal information, such as the right to access, correct, delete, or restrict the processing of your personal information. You may also have the right to withdraw consent for certain processing activities. To exercise your rights or
+Depending on your location, you may have certain rights regarding your personal information, such as the right to access, correct, delete, or restrict the processing of your personal information. You may also have the right to withdraw consent for certain processing activities. To exercise your rights or if you have any questions or concerns about our privacy practices, please contact us using the contact information provided at the end of this Privacy Policy.
+
+Changes to Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time, and any changes will be effective upon posting of the revised Privacy Policy. We will notify you of any material changes to this Privacy Policy by posting a notice on CoinToss or by other means prior to the effective date of the changes. Your continued use of CoinToss after the effective date of any changes indicates your acceptance of the updated Privacy Policy.
+
+Contact Us
+If you have any questions, concerns, or comments about this Privacy Policy or our privacy practices, please contact us at joaovicentedeconto@gmail.com.
