@@ -1,0 +1,36 @@
+[Your Game Name] Privacy Policy
+
+Effective Date: [Date]
+
+Introduction
+CoinToss ("we" or "us") is committed to protecting the privacy of our users ("user" or "you"). This Privacy Policy outlines the types of personal information we collect from users of  and how we use, disclose, and protect that information. By accessing or using CoinToss, you consent to the collection, use, and disclosure of your personal information in accordance with this Privacy Policy.
+
+Information We Collect
+We may collect personal information from users in various ways, including but not limited to:
+
+Information you provide voluntarily, such as your name, email address, and other contact information when you register or interact with CoinToss .
+Information automatically collected, such as device information (e.g., IP address, operating system, browser type), usage data (e.g., game progress, achievements, gameplay statistics), and analytics data (e.g., user interactions, user preferences) collected through cookies, log files, and other tracking technologies.
+Information from third-party sources, such as social media platforms, if you choose to log in or connect your account with CoinToss  through such third-party platforms.
+Use of Information
+We may use the personal information we collect from users for various purposes, including but not limited to:
+
+Providing and improving CoinToss and its features.
+Customizing and personalizing user experience.
+Communicating with users, such as responding to inquiries, providing support, and sending promotional materials.
+Analyzing and monitoring usage of CoinToss to improve its performance, functionality, and security.
+Complying with legal obligations and enforcing our rights and agreements.
+Disclosure of Information
+We may disclose personal information to third parties in certain circumstances, including but not limited to:
+
+Service providers, such as hosting providers, analytics providers, advertising partners, and payment processors, who assist us in providing CoinToss and its features.
+Business transfers, such as in connection with a merger, acquisition, or sale of assets.
+Legal requirements, such as in response to a valid court order or other legal process, or to establish, exercise, or defend legal claims.
+Protection of rights, property, or safety, such as to prevent or detect fraud, security breaches, or other harmful activities.
+Data Security
+We take reasonable measures to protect the personal information we collect from users against unauthorized access, use, disclosure, and loss. However, no data transmission or storage method can be guaranteed to be 100% secure, and we cannot guarantee the security of your personal information.
+
+Children's Privacy
+CoinToss is not intended for children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you believe that your child has provided us with personal information, please contact us immediately, and we will take steps to remove the information from our systems.
+
+Your Rights
+Depending on your location, you may have certain rights regarding your personal information, such as the right to access, correct, delete, or restrict the processing of your personal information. You may also have the right to withdraw consent for certain processing activities. To exercise your rights or
